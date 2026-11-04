@@ -5,3 +5,7 @@ void ShowTasks()
 {
 	cout << "No Tasks avalaibale. " << endl;
 }
+void AddTask()
+{
+	cout << "Task Add Successfully." << endl;
+}

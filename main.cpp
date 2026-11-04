@@ -5,7 +5,7 @@ int main()
 {
     cout << "=== Task Manager ===" << endl;
     ShowTasks();
-    
-    return 0;
+    AddTask();
+     return 0;
 }
 
