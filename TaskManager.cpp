@@ -1,0 +1,7 @@
+#include<iostream>
+#include "TaskManager.h"
+using namespace std;
+void ShowTasks()
+{
+	cout << "No Tasks avalaibale. " << endl;
+}
